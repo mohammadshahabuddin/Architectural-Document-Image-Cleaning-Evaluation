@@ -1,0 +1,1 @@
+# Architectural-Document-Image-Cleaning-Evaluation
